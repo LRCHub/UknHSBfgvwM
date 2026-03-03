@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BEYOND",
+  "base_artist": "ALI",
+  "createdAt": "2026-03-03T07:51:37.950368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beyond the Beach",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": true,
+      "path": "select/01_Beyond_the_Beach_Amanda_Palmer,_Edward_Ka-Spel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beyond the Beach",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/02_Beyond_the_Beach_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Above And Beyond (The Call Of Love)",
+      "artist": "Rodney Crowell",
+      "has_synced": true,
+      "path": "select/03_Above_And_Beyond_(The_Call_Of_Love)_Rodney_Crowell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Above And Beyond (The Call Of Love) (Album Version)",
+      "artist": "Rodney Crowell",
+      "has_synced": true,
+      "path": "select/04_Above_And_Beyond_(The_Call_Of_Love)_(Album_Version)_Rodney_Crowell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beyond the Stars (feat. Willie Nelson)",
+      "artist": "Tami Neilson feat. Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_Beyond_the_Stars_(feat._Willie_Nelson)_Tami_Neilson_feat._Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beyond the Stars (feat. Willie Nelson)",
+      "artist": "Tami Neilson",
+      "has_synced": true,
+      "path": "select/06_Beyond_the_Stars_(feat._Willie_Nelson)_Tami_Neilson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beyond the Beyond",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/07_Beyond_the_Beyond_RJD2.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beyond the Gates of Pain",
+      "artist": "Jedi Mind Tricks feat. Sean Price",
+      "has_synced": true,
+      "path": "select/08_Beyond_the_Gates_of_Pain_Jedi_Mind_Tricks_feat._Sean_Price.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beyond The Gates Of Pain",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/09_Beyond_The_Gates_Of_Pain_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beyond the Clouds",
+      "artist": "You'll Never Get to Heaven",
+      "has_synced": true,
+      "path": "select/10_Beyond_the_Clouds_You'll_Never_Get_to_Heaven.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "out beyond",
+      "artist": "Lowly",
+      "has_synced": false,
+      "path": "select/11_out_beyond_Lowly.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beyond",
+      "artist": "Mr. Scruff",
+      "has_synced": false,
+      "path": "select/12_Beyond_Mr._Scruff.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beyond The Sea",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/13_Beyond_The_Sea_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Her Voice Is Beyond Her Years",
+      "artist": "MEW",
+      "has_synced": false,
+      "path": "select/14_Her_Voice_Is_Beyond_Her_Years_MEW.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Great Beyond",
+      "artist": "Midnight Juggernauts",
+      "has_synced": true,
+      "path": "select/15_The_Great_Beyond_Midnight_Juggernauts.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Ledge Beyond the Edge",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/16_The_Ledge_Beyond_the_Edge_Morcheeba.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEYOND",
+      "artist": "ALI, MaRI",
+      "has_synced": false,
+      "path": "select/pl_01_BEYOND_ALI,_MaRI.txt"
+    }
+  ]
+}
